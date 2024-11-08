@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	. "github.com/sologenic/go-ripple/testing"
+	. "github.com/alexvec/go-ripple/testing"
 	. "gopkg.in/check.v1"
 )
 

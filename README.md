@@ -11,7 +11,7 @@ This clone however is ahead of RubbleLabs with:
 
 ## Why this clone?
 
-At [Sologenic](https://sologenic.org) we require a high performance package in go-lang to support our backend development. We are using more and more features from [XRPL](https://xrpl.org/) and we need to be able to support the latest features immediately.
+At [alexvec](https://alexvec.org) we require a high performance package in go-lang to support our backend development. We are using more and more features from [XRPL](https://xrpl.org/) and we need to be able to support the latest features immediately.
 We do however want to give back to the XRPL community, and are doing this with this by publishing our code in this repo.
 
 ## Compatibility with the RubbleLabs repo

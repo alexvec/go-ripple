@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/sologenic/go-ripple/data"
-	"github.com/sologenic/go-ripple/terminal"
-	"github.com/sologenic/go-ripple/websockets"
+	"github.com/alexvec/go-ripple/data"
+	"github.com/alexvec/go-ripple/terminal"
+	"github.com/alexvec/go-ripple/websockets"
 )
 
 const usage = `Usage: book [currency currency] [options]

@@ -1,6 +1,6 @@
 package data
 
-import "github.com/sologenic/go-ripple/crypto"
+import "github.com/alexvec/go-ripple/crypto"
 
 func Sign(s Signable, key crypto.Key, sequence *uint32) error {
 	s.InitialiseForSigning()

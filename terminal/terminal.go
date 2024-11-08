@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"reflect"
 
+	"github.com/alexvec/go-ripple/data"
+	"github.com/alexvec/go-ripple/websockets"
 	"github.com/fatih/color"
-	"github.com/sologenic/go-ripple/data"
-	"github.com/sologenic/go-ripple/websockets"
 )
 
 type Flag uint32

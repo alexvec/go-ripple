@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/sologenic/go-ripple/crypto"
+	"github.com/alexvec/go-ripple/crypto"
 )
 
 type Amount struct {

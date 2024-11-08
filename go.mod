@@ -1,4 +1,4 @@
-module github.com/sologenic/go-ripple
+module github.com/alexvec/go-ripple
 
 go 1.19
 

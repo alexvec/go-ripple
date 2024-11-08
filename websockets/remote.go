@@ -13,9 +13,9 @@ import (
 	"sync"
 	"time"
 
+	"github.com/alexvec/go-ripple/data"
 	"github.com/golang/glog"
 	"github.com/gorilla/websocket"
-	"github.com/sologenic/go-ripple/data"
 )
 
 const (

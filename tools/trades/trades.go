@@ -7,8 +7,8 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/sologenic/go-ripple/data"
-	"github.com/sologenic/go-ripple/websockets"
+	"github.com/alexvec/go-ripple/data"
+	"github.com/alexvec/go-ripple/websockets"
 )
 
 func checkErr(err error, quit bool) {
